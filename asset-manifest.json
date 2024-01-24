@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gdwood1/jokes.git/static/css/main.506e469a.css",
-    "main.js": "/gdwood1/jokes.git/static/js/main.50da24c7.js",
-    "index.html": "/gdwood1/jokes.git/index.html",
-    "main.506e469a.css.map": "/gdwood1/jokes.git/static/css/main.506e469a.css.map",
-    "main.50da24c7.js.map": "/gdwood1/jokes.git/static/js/main.50da24c7.js.map"
+    "main.css": "/jokes/static/css/main.506e469a.css",
+    "main.js": "/jokes/static/js/main.4e477d54.js",
+    "index.html": "/jokes/index.html",
+    "main.506e469a.css.map": "/jokes/static/css/main.506e469a.css.map",
+    "main.4e477d54.js.map": "/jokes/static/js/main.4e477d54.js.map"
   },
   "entrypoints": [
     "static/css/main.506e469a.css",
-    "static/js/main.50da24c7.js"
+    "static/js/main.4e477d54.js"
   ]
 }
