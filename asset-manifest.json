@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gdwood1/jokes.git/static/css/main.506e469a.css",
+    "main.js": "/gdwood1/jokes.git/static/js/main.50da24c7.js",
+    "index.html": "/gdwood1/jokes.git/index.html",
+    "main.506e469a.css.map": "/gdwood1/jokes.git/static/css/main.506e469a.css.map",
+    "main.50da24c7.js.map": "/gdwood1/jokes.git/static/js/main.50da24c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506e469a.css",
+    "static/js/main.50da24c7.js"
+  ]
+}
